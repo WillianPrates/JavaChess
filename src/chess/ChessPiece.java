@@ -8,4 +8,5 @@ public class ChessPiece extends Piece {
     public ChessPiece(Board board) {
         super(board);
     }
+    
 }
